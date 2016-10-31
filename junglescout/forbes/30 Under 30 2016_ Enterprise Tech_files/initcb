@@ -1,0 +1,47 @@
+var __wsconf = window.__wsconf = window.__wsconf || {};
+__wsconf.section = '14';
+__wsconf.appId = '1056';
+__wsconf.znl = {"10336":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_0_recx_0","sizes":[],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10337":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#loge","sizes":[],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10338":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_0_rec","sizes":[],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10339":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_1_rec","sizes":[],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10340":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_3_loge","sizes":[],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10332":{"tu":1,"conf":{"Height":250.0,"sizes":[],"Width":1170.0,"Selector":"google_ads_iframe_"},"type":"autotag"},"10335":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_0_loge","sizes":[],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"}};
+__wsconf.rootPath = '//webservices.webspectator.com';
+__wsconf.sessionId = 'D863AF08139210BF';
+__wsconf.contextId = 'A734';
+__wsconf.cid = '3A5FB6A9';
+__wsconf.vtm = 'TFPC';
+__wsconf.g_country = 'GB';
+__wsconf.g_region = 'NGM';
+__wsconf.g_city = 'Nottingham';
+__wsconf.dads = 0;
+__wsconf.dfm = 1;
+__wsconf.lts = 0;
+__wsconf.adBlckMsg = false;
+__wsconf.adBlckMsgTxt = '';
+__wsconf.frt= "20";
+__wsconf.smc= {"idleTimer":19.0};
+__wsconf.mui= "99";
+__wsconf.ortc= {"url":"window.location.protocol + \u0027//ortc-prd.realtime.co/server\u0027 + (window.location.protocol \u003d\u003d \u0027https:\u0027 ? \u0027/ssl/\u0027 : \u0027/\u0027) + \u00272.1/\u0027","apk":"R60tcQ","aut":"ws.client"};
+
+
+var s0 = document.createElement('script');
+s0.type = 'text/javascript';
+s0.async = true;
+s0.src = (window.location.protocol == "https:" ? "https:" : "http:")+"//wfpscripts.webspectator.com/ortc-2.1.24.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s0);
+
+var s1 = document.createElement('script');
+s1.type = 'text/javascript';
+s1.async = true;
+s1.src = (window.location.protocol == "https:" ? "https:" : "http:")+"//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s1);
+
+var s2 = document.createElement('script');
+s2.type = 'text/javascript';
+s2.async = true;
+s2.src = (window.location.protocol == "https:" ? "https:" : "http:")+"//wfpscripts.webspectator.com/adblocker/blockadblock.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s2);
+
+var s3 = document.createElement('script');
+s3.type = 'text/javascript';
+s3.async = true;
+s3.src = (window.location.protocol == "https:" ? "https:" : "http:")+"//wfpscripts.webspectator.com/ws-4.4.42.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s3);
+
